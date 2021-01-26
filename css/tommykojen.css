@@ -58,6 +58,13 @@ ul{
 }
 
 
+#insta{
+  padding-top: 50%;
+  float: left;
+  position: fixed;
+  padding-left: 0;
+}
+
 
 /* Bildegalleri */
 
@@ -344,14 +351,14 @@ img:hover{
 
   #om, p{
     font-size: 14px;
-    text-align: right;
+    text-align: center;
     padding: 0;
     color: #686868;
   }
 
   #om{
     padding-top: 17em;
-    padding-right: 7em;
+    padding-left: 0em;
   }
 
 }
