@@ -50,13 +50,20 @@ ul{
 }
 
 
+/* beskrivelse */
+
+#beskrivelse{
+  float: left;
+  padding-top: 9em;
+}
+
 
 
 /* Bildegalleri */
 
 
 .galleri{
-  padding: 14em 4em 4em 4em;
+  padding: 20em 4em 4em 4em;
   margin-left: 10em;
 }
   
@@ -102,6 +109,7 @@ ul{
 #bilde8{
   padding-left: 17.5em;
 }
+
 
   /*footer*/
 
@@ -256,6 +264,10 @@ img:hover{
   #om{
     padding-top: 20em;
     padding-right: 7em;
+  }
+  #beskrivelse{
+    float: left;
+    padding-top: 15em;
   }
 
 }
